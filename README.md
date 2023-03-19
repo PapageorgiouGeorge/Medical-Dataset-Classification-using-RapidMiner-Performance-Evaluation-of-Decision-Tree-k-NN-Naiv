@@ -1,0 +1,2 @@
+# Medical-Dataset-Classification-using-RapidMiner-Performance-Evaluation-of-Decision-Tree-k-NN-Naiv
+This project focuses on classifying two datasets, Haberman's Survival and Pima Indians Diabetes, using RapidMiner. The classification is performed using four algorithms: Decision Tree, k-NN, Naive Bayes, and LibSVM. The datasets are imported and preprocessed in RapidMiner, and 10-fold cross-validation is performed for each algorithm.
