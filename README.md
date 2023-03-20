@@ -29,3 +29,8 @@ Insights:
 For the Pima Indians Diabetes dataset, Naive Bayes and Decision Tree were suitable algorithms, with Naive Bayes having slightly better results.
 Linear Regression was found to be an even better algorithm for classifying the Pima Indians Diabetes dataset based on accuracy and other metrics.
 In the case of the Haberman's Survival dataset, the Decision Tree was the best algorithm for classification.
+
+
+## Contact Information
+
+If you require access to the code in this repository, please reach out to me at g.papageorgiou.contact@gmail.com or on [LinkedIn](https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221), and I will be happy to assist you.
