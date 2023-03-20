@@ -1,3 +1,0 @@
-http://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival
-
-https://machinelearningmastery.com/standard-machine-learning-datasets/?fbclid=IwAR3Iq-RY_5deYV92rkacuVUHt5q4vFMV7cCwfO-_13g93ESdNgJ10MYhHRk
